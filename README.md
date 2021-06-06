@@ -6,5 +6,5 @@ How to play:
 ```
 $ git clone https://github.com/HaiderZak/asteroids-game.git
 
-Then run asteroids.java
+Then run asteroids.jar
 ```
